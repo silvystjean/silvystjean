@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @silvystjean
+- 👋 Hi, I’m Silvy
 - 👀 I’m interested in NLP
 - 🌱 I’m currently learning Statistical Machine Learning
-- 💞️ I’m looking to collaborate on any Data Visualisation
+- 💞️ I’m looking to collaborate on any Data Visualisation and machine learning projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/silvystjean/)
 - 😄 Pronouns: She/her
 
